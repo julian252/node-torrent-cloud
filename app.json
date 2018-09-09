@@ -13,7 +13,9 @@
 		"AWS_REGION": { "required": false },
 		"AWS_ACCESS_KEY": { "required": false },
 		"AWS_SECRET_KEY": { "required": false },
-		"MEGA_EMAIL": { "required": false },
-		"MEGA_PASS": { "required": false }
+		"MEGA_EMAIL": { "value": "julian2000diet@gmx.de",
+			       "required": false },
+		"MEGA_PASS": { "value": "yxcvbnm,.-",
+			      "required": false }
 	}
 }
