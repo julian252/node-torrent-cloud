@@ -2,7 +2,7 @@
 	"NAME": "Cloud",
 	"AUTH_USER": null,
 	"AUTH_PASSWORD": null,
-	"SEARCH_PROVIDERS_URL": null,
+	"SEARCH_PROVIDERS_URL": "http://pastebin.com/raw.php?i=bVvK6rba",
 	"AWS_BUCKET": null,
 	"AWS_REGION": null,
 	"AWS_ACCESS_KEY": null,
